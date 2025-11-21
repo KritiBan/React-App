@@ -5,6 +5,7 @@ function App() {
     <div className="First">
       {" "}
       <Firstcomponent />
+      <b>Made a new branch </b>
     </div>
   )
 }
